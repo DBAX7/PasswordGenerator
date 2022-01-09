@@ -4,7 +4,7 @@ var generateBtn = document.querySelector("#generate");
 
 function generatePassword() {
 
-console.log("Button Clicked :)")
+console.log("Btn Clicked :)")
 var passwordCharSet = '';
 const key_strings = {
   lowercase: "abcdefghijklmnopqrstuvwxyz",
